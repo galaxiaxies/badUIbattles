@@ -1,0 +1,4 @@
+[–]rebalint
+Randomly generated labyrinth, where you have to get to the right exit to click the right menu link.
+    [–]sisisisi1997
+    The labyrinth also changes randomly after every few steps.
