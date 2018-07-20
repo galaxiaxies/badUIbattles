@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    background: transparent none;
+    border: 0 solid #000;
+    line-height: 1.5em;
+    font-size: 1em;
+}
+
+body {
+    padding: 0.5%;
+    font-family: "Liberation Serif", "Times New Roman ", serif;;
+    background-color: #f0f0f0;
+}
+
+p {
+    font-size: 1.1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Century Gothic", Calibri, sans-serif;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+h3 {
+    font-size: 1.6em;
+}
+
+h4 {
+    font-size: 1.3em;
+}
+
+h5 {
+    font-size: 1.1em;
+}
+
+h6 {
+    font-size: 0.9em;
+}
